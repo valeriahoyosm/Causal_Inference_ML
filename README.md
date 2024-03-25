@@ -17,3 +17,11 @@ Labs on Friday 8:30-10:30
 * Fernanda
 * snupi
 * el amarillo
+
+## Movie List
+* El Padriino II
+* Ratatouille
+* Susy Diaz
+* Openheimer
+* 900
+* La La Land
