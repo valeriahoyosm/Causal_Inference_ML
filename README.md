@@ -15,3 +15,5 @@ Labs on Friday 8:30-10:30
 * Mayi
 * Joel
 * Fernanda
+* snupi
+* el amarillo
