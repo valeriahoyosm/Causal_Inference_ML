@@ -11,3 +11,5 @@ Labs on Friday 8:30-10:30
 * Valeria Hoyos
 * Alejandro Horno
 * Alberja
+* Alexander
+* Mayi
