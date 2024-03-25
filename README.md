@@ -23,3 +23,5 @@ Labs on Friday 8:30-10:30
 * Ratatouille
 * Susy Diaz
 * Openheimer
+* 900
+* La La Land
