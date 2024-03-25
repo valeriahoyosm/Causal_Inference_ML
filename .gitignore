@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+#Stata
+*.do
+*.dta
+*.ado
