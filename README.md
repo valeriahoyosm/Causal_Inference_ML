@@ -13,5 +13,7 @@ Labs on Friday 8:30-10:30
 * Alberja
 * Alexander
 * Mayi
+* Joel
+* Fernanda
 * snupi
 * el amarillo
